@@ -2,7 +2,8 @@
 
 This project is developed during my undergraduate Year 1 - Semester 1.
 
-Instructions:
+### Instructions:
+
 This is a game of pong, where you as the player are required to move the paddle and
 collide it with the ball, to hit it back to the opponent side. If the ball bypass
 your opponent's paddle, you would score a point and vice versa. 
@@ -18,5 +19,6 @@ Back to the menu again, u can proceed to press the 'Play' button to play the gam
 the game ends, it will return you back to the menu and you can press the 'Exit'
 button if you wish to exit or else you can press 'Play' to play again.
 
-Concept:
+### Concept:
+
 In the algorithm, the opponent's paddle will move according to the Y-position of the ball and follows it constantly. However, the ball would accelerate as the game goes on and eventually the ball would be able to outspeed the opponent's paddle from being deflected.
