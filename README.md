@@ -1,4 +1,4 @@
-# Undergraduate-Y1S1-Pygame-Pong
+# Undergraduate Y1S1 Pygame-Pong
 
 This project is developed during my undergraduate Year 1 - Semester 1.
 
